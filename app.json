@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "658d126e-4d3f-4af8-8d3b-c8a0620bfc1b"
+      }
+    },
+    "owner": "jenifermorati"
   }
 }
