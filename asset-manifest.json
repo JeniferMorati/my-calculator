@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/my-calculator/static/js/main.bd1de5af.js",
+    "static/js/16.24c6d46c.js": "/my-calculator/static/js/16.24c6d46c.js",
+    "favicon.ico": "/my-calculator/favicon.ico",
+    "index.html": "/my-calculator/index.html",
+    "favicon-32.png": "/my-calculator/favicon-32.png",
+    "favicon-16.png": "/my-calculator/favicon-16.png",
+    "manifest.json": "/my-calculator/manifest.json",
+    "serve.json": "/my-calculator/serve.json",
+    "main.bd1de5af.js.map": "/my-calculator/static/js/main.bd1de5af.js.map",
+    "16.24c6d46c.js.map": "/my-calculator/static/js/16.24c6d46c.js.map"
+  },
+  "entrypoints": [
+    "static/js/16.24c6d46c.js",
+    "static/js/main.bd1de5af.js"
+  ]
+}
